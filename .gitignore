@@ -1,0 +1,11 @@
+# 本地与临时
+
+inbox/art/**
+inbox/glossary/**
+inbox/past/**
+outputs/**
+!inbox/**/README.md
+!inbox/notes.md
+!outputs/README.md
+.DS_Store
+Thumbs.db
